@@ -1,6 +1,6 @@
 {
         "useSideMenu": true,
-        "lineBreaks": "gfm",
+        "lineBreaks": "original",
         "additionalFooterText": "张启震的 wiki",
         "anchorCharacter": "#"
         "title": "张启震的 wiki"
